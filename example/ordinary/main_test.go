@@ -2,7 +2,7 @@ package ordinary
 
 import (
 	"errors"
-	"github.com/go-redis/redismock/v8"
+	"github.com/airtame/redismock/v8"
 	"testing"
 )
 
