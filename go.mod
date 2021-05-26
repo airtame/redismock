@@ -8,5 +8,3 @@ require (
 	github.com/onsi/gomega v1.10.5
 	go.opentelemetry.io/otel v0.19.0 // indirect
 )
-
-replace github.com/go-redis/redismock/v8 => github.com/airtame/redismock/v8
